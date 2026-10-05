@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+password_manager.db
+salt.bin
+master.txt
+passwords.txt
+
+.env
+.vscode/
